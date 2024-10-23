@@ -15,7 +15,8 @@ Features that are included in this Quickstart app:
 * [Custom Image Labeling - Birds](https://developers.google.com/ml-kit/vision/image-labeling/custom-models/android) - Label images of birds with a custom TensorFlow Lite model.
 * [Pose Detection](https://developers.google.com/ml-kit/vision/pose-detection/android) - Detect the position of the human body in real time.
 
-<img src="../screenshots/quickstart-picker.png" width="256"/> <img src="../screenshots/quickstart-image-labeling.png" width="256"/> <img src="../screenshots/quickstart-object-detection.png" width="256"/> 
+![TempScreenshot](https://github.com/user-attachments/assets/7205cadd-e5f9-4d0c-9724-06a2ecb5701d)
+
 
 ## Getting Started
 
