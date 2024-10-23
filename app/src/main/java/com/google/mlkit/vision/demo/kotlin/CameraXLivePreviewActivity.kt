@@ -283,7 +283,7 @@ class CameraXLivePreviewActivity :
     }
 
     previewUseCase = Preview.Builder().build()
-    previewUseCase!!.setSurfaceProvider(previewView!!.createSurfaceProvider())
+    previewUseCase!!.setSurfaceProvider(previewView!!.getSurfaceProvider())
     cameraProvider!!.bindToLifecycle(/* lifecycleOwner= */this, cameraSelector!!, previewUseCase)
   }
 
